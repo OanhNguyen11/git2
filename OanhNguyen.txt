@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 OanhNguyen Training
 Ktx Phap van 
+=======
+>>>>>>> parent of 1db69e8... OanhNguyen changed
